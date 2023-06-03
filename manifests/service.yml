@@ -25,5 +25,5 @@ kind: Secret
 metadata:
   name: sa1-token
   annotations:
-    kubernetes.io/service-account.name: cicd
+    kubernetes.io/service-account.name: liamng0691-Build and deploy to AKS with Pipelines-c1846e32-d865-470b-86fa-daee66cd7830
 type: kubernetes.io/service-account-token
